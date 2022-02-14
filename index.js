@@ -89,7 +89,6 @@ const groupby=(list=[],by)=>{
   return result;
 }
 
-//  i didn't complete i will tomorrow i.a.
     
     
 
