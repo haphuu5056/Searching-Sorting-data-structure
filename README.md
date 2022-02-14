@@ -1,1 +1,1 @@
-# First Repository
+Searching & Sorting algorithms
